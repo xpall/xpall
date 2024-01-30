@@ -8,11 +8,11 @@
     <img src="https://komarev.com/ghpvc/?username=xpall&label=Profile%20views&color=0e75b6&base=112&style=flat" alt="xpall" /> 
 </p>
 
-- 🔭 I’m currently working on a School Website and students' test paper checker using [OMRChecker](https://github.com/xpall/OMRChecker)
+- 🔭 I’m currently working on a School Website and students' test paper checker using [OMRChecker](https://github.com/xpall/OMRChecker).
 
-- 🌱 I’m currently learning **Bioinformatics and Houdini**
+- 🌱 I’m currently learning **[Bioinformatics](https://www.coursera.org/learn/bioinformatics) and [Houdini](https://www.sidefx.com/products/houdini/)**.
 
-- 💬 Ask me about **Python, Video Editing, and WebDev**
+- 💬 Ask me about **Python, Video Editing, and WebDev**.
 
 - 📫 How to reach me: **contact@johnlloyd.dev**
 
