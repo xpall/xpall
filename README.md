@@ -21,7 +21,7 @@
 </h3>
 
 <p align="left">
-    <a href="https://johnlloyd.dev/" target="_blank"><img align="center" src="https://johnlloyd.dev/favicon.png" alt="johnlloyd.dev" height="30" width="30" /></a> 
+    <a href="https://johnlloyd.dev/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="johnlloyd.dev" height="30" width="30" /></a> 
     <a href="https://www.linkedin.com/in/johnlloyddev/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johnlloyddev" height="30" width="40" /></a>
     <a href="https://facebook.com/johnlloyd.dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="johnlloyd.dev" height="30" width="40" /></a>
       <a href="https://dev.to/johnlloyddev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="johnlloyddev" height="30" width="40" /></a>
