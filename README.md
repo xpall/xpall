@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on a students' test paper checker using **[OMRChecker](https://github.com/xpall/OMRChecker)**.
 
-- 🌱 I’m currently learning **[Django](https://www.djangoproject.com)**.
+- 🌱 I’m currently doing psets on **[CS50SQL]([https://www.djangoproject.com](https://www.edx.org/learn/sql/harvard-university-cs50-s-introduction-to-databases-with-sql))**.
 
 - 💬 Ask me about **Python, Video Editing, and Web Development**.
 
