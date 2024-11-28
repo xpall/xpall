@@ -24,9 +24,9 @@
 </h3>
 
 <p align="left">
-    <a href="https://johnlloyd.dev/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/xpall/icons-svg/main/jl-logo-blue-text-bold-softcorner.svg" alt="johnlloyd.dev-favicon" height="30" width="30" /></a> 
+    <a href="https://www.johnlloyd.dev/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/xpall/icons-svg/main/jl-logo-blue-text-bold-softcorner.svg" alt="johnlloyd.dev-favicon" height="30" width="30" /></a> 
     <a href="https://www.linkedin.com/in/johnlloyddev/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johnlloyddev linkedin" height="30" width="40" /></a>
-    <a href="https://facebook.com/johnlloyd.dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="johnlloyd.dev facebook" height="30" width="40" /></a>
+    <a href="https://www.facebook.com/johnlloyd.dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="johnlloyd.dev facebook" height="30" width="40" /></a>
     <a href="https://www.onlinejobs.ph/jobseekers/info/2828321" target="_blank"><img align="center" src="https://www.onlinejobs.ph/images/oj-logo-icon.png" alt="johnlloyddev onlinejobsph" height="30" width="30" /></a>
 </p>
 
