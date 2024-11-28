@@ -9,15 +9,15 @@
     <img src="https://komarev.com/ghpvc/?username=xpall&label=Profile%20views&color=0e75b6&base=112&style=flat" alt="xpall" /> 
 </p>
 
-- 💼 Visit my **[Portfolio](https://johnlloyd.dev/)**
+- 💼 Check out my **[Portfolio](https://johnlloyd.dev/)**
 
-- 🔭 I’m currently working on a students' test paper checker using **[OMRChecker](https://github.com/xpall/OMRChecker)**.
+- 🔭 I’m a passionate **Freelancer specializing in tech solutions**.
 
-- 🌱 I’m currently doing psets on **[CS50SQL](https://www.edx.org/learn/sql/harvard-university-cs50-s-introduction-to-databases-with-sql)**.
+- 🌱 I’m currently exploring new opportunities and challenges.
 
-- 💬 Ask me about **Python, Video Editing, and Web Development**.
+- 💬 Let's **connect and discuss** how I can contribute to your next project.
 
-- 📫 How to reach me: **contact@johnlloyd.dev**
+- 📫 Contact me: **contact@johnlloyd.dev**
 
 <h3 align="left">
     Connect with me:
@@ -27,7 +27,7 @@
     <a href="https://johnlloyd.dev/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/xpall/icons-svg/main/jl-logo-blue-text-bold-softcorner.svg" alt="johnlloyd.dev-favicon" height="30" width="30" /></a> 
     <a href="https://www.linkedin.com/in/johnlloyddev/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johnlloyddev linkedin" height="30" width="40" /></a>
     <a href="https://facebook.com/johnlloyd.dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="johnlloyd.dev facebook" height="30" width="40" /></a>
-      <a href="https://dev.to/johnlloyddev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="johnlloyddev devto" height="30" width="40" /></a>
+    <a href="https://www.onlinejobs.ph/jobseekers/info/2828321" target="_blank"><img align="center" src="https://www.onlinejobs.ph/images/oj-logo-icon.png" alt="johnlloyddev onlinejobsph" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">
