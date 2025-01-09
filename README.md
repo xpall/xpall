@@ -11,9 +11,9 @@
 
 - 💼 Check out my **[Portfolio](https://johnlloyd.dev/)**
 
-- 🔭 I’m a passionate **Freelancer specializing in tech solutions**.
+- 🔭 I’m a dedicated **Python Developer** creating efficient and scalable tech solutions.
 
-- 🌱 I’m currently exploring new opportunities and challenges.
+- 🌱 Currently focused on advancing my skills and delivering impactful projects.
 
 - 💬 Let's **connect and discuss** how I can contribute to your next project.
 
