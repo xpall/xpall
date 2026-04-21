@@ -23,7 +23,7 @@
     Connect with me:
 </h3>
 
-<p align="left">
+<p align="center">
     <a href="https://www.johnlloyd.dev/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/xpall/icons-svg/main/jl-logo-blue-text-bold-softcorner.svg" alt="johnlloyd.dev-favicon" height="30" width="30" /></a> 
     <a href="https://www.linkedin.com/in/johnlloyddev/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johnlloyddev linkedin" height="30" width="40" /></a>
     <a href="https://www.facebook.com/johnlloyd.dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="johnlloyd.dev facebook" height="30" width="40" /></a>
@@ -33,7 +33,7 @@
 <h3 align="left">
     Languages, Tools, and Software:
 </h3>
-<p align="left">
+<p align="center">
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
     <a href="https://www.ucl.ac.uk/isd/what-ssh-and-how-do-i-use-it" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Unofficial_SSH_Logo.svg" alt="ssh" width="40" height="40"/> </a> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
