@@ -36,7 +36,6 @@ A self-taught programmer from the Philippines
 <img src="https://www.onlinejobs.ph/images/oj-logo-icon.png" width="30" />
 </a>
 </p>
----
 
 ## Languages, Tools, and Software:
 
