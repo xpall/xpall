@@ -94,4 +94,3 @@ A self-taught programmer from the Philippines
 </a>
 
 </p>
----
